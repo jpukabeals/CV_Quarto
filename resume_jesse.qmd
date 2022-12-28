@@ -20,9 +20,13 @@ format:
         \setlength{\columnsep}{3em}
 ---
 <!-- TITLE -->
-\begin{huge}\begin{center}{\bf JESSE PUKA-BEALS}\end{center}\end{huge}
+\begin{huge}
+  \begin{center}
+    {\bf JESSE PUKA-BEALS}
+  \end{center}
+\end{huge}
 
-<!-- <!-- Address --> 
+<!-- Address -->
 <!-- \vspace{-24pt} -->
 <!-- \begin{center} -->
 <!-- \begin{small} -->
@@ -32,14 +36,17 @@ format:
 <!-- \vspace{-24pt} -->
 
 <!-- CONTACT INFO -->
+
 \begin{center}jpukabeals@gmail.com ∙ 
 \href{https://twitter.com/PukaBeals}{Twitter} ∙ 
 \href{https://github.com/jpukabeals}{Github} ∙ \href{https://orcid.org/my-orcid?orcid=0000-0003-1829-5954}{ORCiD}
 \end{center}
-\vspace{15pt}
+
+<!-- \vspace{15pt} -->
 
 <!-- EDUCATION: 1ST BULLET -->
 <!-- NDSU -->
+
 \begin{large}
   {\bf EDUCATION}
   \vspace{3pt}
@@ -56,7 +63,8 @@ format:
   \textit{\href{https://www.proquest.com/docview/2412120287?pq-origsite=gscholar&fromopenview=true}{Thesis:} Combining Cover crops, Strip Tillage, and Novel Mulches to Manage Weeds in Vegetable Cropping Systems}
 \end{large}
 
-\vspace{0.2cm}
+<!-- \vspace{0.2cm} -->
+\vspace{8pt}
 
 <!-- EDUCATION: 2ND BULLET -->
 <!-- Cornell -->
@@ -72,14 +80,17 @@ format:
   \vspace{-0.25cm}
   \textit{\href{https://cals.cornell.edu/school-integrative-plant-science/school-sections/horticulture-section/research/toward-sustainability-foundation-grants}{Capstone: } Cultivation in dry beans for weed control with small-tractors}
 \end{large}
-\vspace{3pt}
+
+<!-- \vspace{3pt} -->
 
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
   \vspace{3pt}
   \hrule
 \end{large}
+
 <!-- \vspace{-0.16cm} -->
+
 **Languages and Tools** - R, Git, Quarto, SAS, JMP, Inkscape, Google Suite, Microsoft Office
 
 **Selected Coursework** - Field Design I & II, Analysis of Ecosystems, Soil physics, Linear Models for Data Science, Data Visualization
@@ -108,7 +119,8 @@ format:
   \end{flushright}
 \end{multicols}
 \end{large}
-\vspace{-0.16cm}
+
+<!-- \vspace{-0.16cm} -->
 
 * Technical support for research projects
 
@@ -126,7 +138,6 @@ format:
     \end{flushright}
   \end{multicols}
 
-\vspace{-0.17cm}
 
   \begin{multicols}{2}
     \begin{flushleft}
@@ -138,108 +149,73 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{-0.16cm}
 
 * Coordinated field activities and data collection during two growing seasons with four person crews
 
-\vspace{7pt}
 
 <!-- EXPERIENCE : 3RD BULLET -->
-<!-- Cornell Tech -->
+<!-- Cornell -->
+
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf}\end{flushleft}
-    \begin{flushright}April 2020-Nov 2021\end{flushright}
+    \begin{flushleft}
+      {\bf Cornell University}
+    \end{flushleft}
+    \begin{flushright}
+      Ithaca, NY
+    \end{flushright}
   \end{multicols}
-  \vspace{-0.17cm}
+  
+
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Research Analyst}\end{flushleft}
-    \begin{flushright}Alexandria, VA\end{flushright}
+    \begin{flushleft}
+      \textit{Research Technician III}
+    \end{flushleft}
+    \begin{flushright}
+      Feb 2018-Mar 2018
+    \end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.16cm}
-* Led in modeling projects predicting election turnout for entire U.S. in 2022, phone response rates, etc.
-* Wrangled, cleaned, weighted, or made presentations for 60+ survey datasets with R, SQL, and AWS
-* Using R Shiny, built a codeless-crosstab tool for company’s research team
 
-\vspace{7pt}
+* Plant Breeding Lab
 
-<!-- EXPERIENCE : 4TH BULLET -->
-<!-- Cornell researcher -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{http://csed.byu.edu/}{Center for Elections and Democracy}}\end{flushleft}
-    \begin{flushright}Dec 2018-April 2020\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Undergraduate Research Fellow}\end{flushleft}
-    \begin{flushright}Provo, UT\end{flushright}
+    \begin{flushleft}
+      \textit{Principal Investigator}
+    \end{flushleft}
+    \begin{flushright}
+      Feb 2017-Oct 2018
+    \end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.16cm}
-* Designed and executed multiple survey experiments in original research projects
-* Mentored 60+ students in solving econometrics problems in weekly office hours
-* Visualized data using R creating 50+ informative figures for the AFS official report, news outlets, and professor’s projects
 
-\vspace{7pt}
+* Dry bean experiment
 
-<!-- EXPERIENCE : 5TH BULLET -->
-<!-- Cornell researcher -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{http://csed.byu.edu/}{Center for Elections and Democracy}}\end{flushleft}
-    \begin{flushright}Dec 2018-April 2020\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Undergraduate Research Fellow}\end{flushleft}
-    \begin{flushright}Provo, UT\end{flushright}
+    \begin{flushleft}
+      \textit{Research Assistant}
+    \end{flushleft}
+    \begin{flushright}
+      Feb 2017-Oct 2017
+    \end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.16cm}
-* Designed and executed multiple survey experiments in original research projects
-* Mentored 60+ students in solving econometrics problems in weekly office hours
-* Visualized data using R creating 50+ informative figures for the AFS official report, news outlets, and professor’s projects
 
-\vspace{7pt}
+* Reduced tillage in Vegetables with Ryan
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
   {\bf PERSONAL PORTFOLIO PROJECTS}
   \vspace{3pt}
   \hrule
+  
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/acbass49/predicting_country}{Predicting AirBnB Bookings with Apache Spark}}\end{flushleft}
-    \begin{flushright}December 2022\end{flushright}
+    \begin{flushleft}
+    \end{flushleft}
+    \begin{flushright}
+    \end{flushright}
   \end{multicols}
-  \vspace{-0.17cm}
 \end{large}
-* Used **ONLY Apache Spark (PySpark) in a distributed environment** to solve a classification problem. 
-* Coded a full data-pipeline: wrangling and joining data, EDA, feature engineering, model selection with a grid search (Lasso, Ridge, Naive Bayes, Random Forest, GBT), model evaluation, and full project write-up and analysis
 
-\vspace{7pt}
-
-<!-- PERSONAL PROJECTS : 2ND BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/acbass49/urban_audio_classification}{CNN Classification of Urban Sounds}}\end{flushleft}
-    \begin{flushright}December 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-\end{large}
-* Extracted features such as MFCC, Chromagram, Spectral Contrast from 8000+ audio clips using Python.
-* Estimated models custom and popular CNN architectures (AlexNet, GoogLeNet, etc.) using Tensorflow and Keras.
-* Full project write-up and code on Github.
-
-\vspace{7pt}
-
-<!-- PERSONAL PROJECTS : 2ND BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/posts/bayesian_county/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
-    \begin{flushright}August 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-\end{large}
-* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used hierarchal negative binomial model to predict shootings and make inferences about gun laws
