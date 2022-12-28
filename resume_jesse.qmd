@@ -8,7 +8,7 @@ format:
       - right=15mm
       - bottom=5mm
     fontfamily: libertinus
-    colorlinks: true
+    colorlinks: false
     fontsize: '16'
     include-in-header: 
       text: |
@@ -39,6 +39,7 @@ format:
 \vspace{15pt}
 
 <!-- EDUCATION: 1ST BULLET -->
+<!-- NDSU -->
 \begin{large}
   {\bf EDUCATION}
   \vspace{3pt}
@@ -58,6 +59,7 @@ format:
 \vspace{0.2cm}
 
 <!-- EDUCATION: 2ND BULLET -->
+<!-- Cornell -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf Cornell University}\end{flushleft}
@@ -78,7 +80,7 @@ format:
   \hrule
 \end{large}
 <!-- \vspace{-0.16cm} -->
-**Languages and Tools** - R, Git, Quarto, SAS, JMP, Inkscape, Python
+**Languages and Tools** - R, Git, Quarto, SAS, JMP, Inkscape, Google Suite, Microsoft Office
 
 **Selected Coursework** - Field Design I & II, Analysis of Ecosystems, Soil physics, Linear Models for Data Science, Data Visualization
 
@@ -89,16 +91,26 @@ format:
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}{\bf University of Minnesota}\end{flushleft}
-    \begin{flushright}Aug 2020-Present\end{flushright}
+    \begin{flushright}St Paul, MN\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Researcher 4}\end{flushleft}
-    \begin{flushright}St Paul, MN\end{flushright}\end
-  {multicols}
+    \begin{flushright}May 2022-Present\end{flushright}
+    \end{multicols}
+  \vspace{-0.16cm}
+  \begin{multicols}{2}
+  \begin{flushleft}
+  \textit{Researcher 3}
+  \end{flushleft}
+  \begin{flushright}
+  Aug 2020-May 2022
+  \end{flushright}
+\end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Manage research projects
+
+* Technical support for research projects
 
 \vspace{7pt}
 
@@ -106,20 +118,29 @@ format:
 <!-- NDSU -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf North Dakota State University}\end{flushleft}
-    \begin{flushright}May 2018-Jul 2020\end{flushright}
+    \begin{flushleft}
+      {\bf North Dakota State University}
+    \end{flushleft}
+    \begin{flushright}
+      Fargo, ND
+    \end{flushright}
   \end{multicols}
-  \vspace{-0.17cm}
+
+\vspace{-0.17cm}
+
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Graduate Research Assistant}\end
-    {flushleft}\begin{flushright}Fargo, ND\end
-    {flushright}
+    \begin{flushleft}
+      \textit{Graduate Research Assistant}
+    \end{flushleft}
+    \begin{flushright}
+      May 2018-Jul 2020
+    \end{flushright}
   \end{multicols}
 \end{large}
+
 \vspace{-0.16cm}
+
 * Coordinated field activities and data collection during two growing seasons with four person crews
-* Point 2
-* Point 3
 
 \vspace{7pt}
 
