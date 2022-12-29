@@ -77,11 +77,8 @@ format:
   \begin{multicols}{2}
     \begin{flushleft}Bachelor of Science: Agricultural Sciences\end{flushleft}
   \end{multicols}
-  \vspace{-0.25cm}
-  \textit{\href{https://cals.cornell.edu/school-integrative-plant-science/school-sections/horticulture-section/research/toward-sustainability-foundation-grants}{Capstone: } Cultivation in dry beans for weed control with small-tractors}
 \end{large}
 
-<!-- \vspace{3pt} -->
 
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
@@ -93,7 +90,9 @@ format:
 
 **Languages and Tools** - R, Git, Quarto, SAS, JMP, Inkscape, Google Suite, Microsoft Office
 
-**Selected Coursework** - Field Design I & II, Analysis of Ecosystems, Soil physics, Linear Models for Data Science, Data Visualization
+**Licenses** - Pesticide applicator (MN-A & C)
+
+**Selected Coursework** - Field Design I & II, Analysis of Ecosystems, Soil physics, Linear Models for Data Science, Data Visualization, Farm Machinery
 
 <!-- EXPERIENCE : 1ST BULLET-->
 <!-- UMN -->
@@ -172,7 +171,7 @@ format:
       \textit{Research Technician III}
     \end{flushleft}
     \begin{flushright}
-      Feb 2018-Mar 2018
+      Feb 2018-May 2018
     \end{flushright}
   \end{multicols}
 \end{large}
@@ -185,7 +184,7 @@ format:
       \textit{Principal Investigator}
     \end{flushleft}
     \begin{flushright}
-      Feb 2017-Oct 2018
+      Feb 2017-Oct 2017
     \end{flushright}
   \end{multicols}
 \end{large}
@@ -198,7 +197,7 @@ format:
       \textit{Research Assistant}
     \end{flushleft}
     \begin{flushright}
-      Feb 2017-Oct 2017
+      Feb 2016-Oct 2016
     \end{flushright}
   \end{multicols}
 \end{large}
@@ -207,15 +206,9 @@ format:
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
-  {\bf PERSONAL PORTFOLIO PROJECTS}
+  {\bf PORTFOLIO of PROJECTS}
   \vspace{3pt}
   \hrule
-  
-  \begin{multicols}{2}
-    \begin{flushleft}
-    \end{flushleft}
-    \begin{flushright}
-    \end{flushright}
-  \end{multicols}
 \end{large}
+
 
