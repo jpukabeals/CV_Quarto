@@ -121,7 +121,11 @@ format:
 
 <!-- \vspace{-0.16cm} -->
 
-* Technical support for research projects
+* Oversee all facets of agricultural field research projects ranging from forages, row crop production and environmental quality.
+
+* Consult with diverse research teams on translating research questions into testable hypotheses we can meaningfully conduct in our lab.   
+
+* Develop experimental procedures and data collection practices to conserve resources and assure quality.  
 
 \vspace{7pt}
 
@@ -176,7 +180,7 @@ format:
   \end{multicols}
 \end{large}
 
-* Plant Breeding Lab
+* Upgraded greenhouse facilities and supported the research activities of a vegetable breeding program. 
 
 \begin{large}
   \begin{multicols}{2}
@@ -189,7 +193,7 @@ format:
   \end{multicols}
 \end{large}
 
-* Dry bean experiment
+* Secured funding to assess efficacy of cultivation implements in dry beans.  
 
 \begin{large}
   \begin{multicols}{2}
@@ -202,7 +206,7 @@ format:
   \end{multicols}
 \end{large}
 
-* Reduced tillage in Vegetables with Ryan
+* Assisted reduced tillage research in winter squash production.
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
