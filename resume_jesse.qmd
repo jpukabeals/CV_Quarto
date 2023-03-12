@@ -19,6 +19,7 @@ format:
         \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
         \setlength{\columnsep}{3em}
 ---
+
 <!-- TITLE -->
 \begin{huge}
   \begin{center}
@@ -92,7 +93,7 @@ format:
 
 **Licenses** - Pesticide applicator (MN-A & C)
 
-**Selected Coursework** - Field Design I & II, Analysis of Ecosystems, Soil physics, Linear Models for Data Science, Data Visualization, Farm Machinery
+**Selected Coursework** - (Tailor to Job) Field Experiment Design I & II, Statistical Analysis of Ecosystems, Introduction to Biological Statistics, Weed Science, Advanced Weed Science, Soil Physics, Data Visualization, Farm Machinery
 
 <!-- EXPERIENCE : 1ST BULLET-->
 <!-- UMN -->
